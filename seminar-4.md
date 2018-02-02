@@ -42,23 +42,25 @@
 
 The goal of this project is to develop a very specific digital edition which will shed light on the manuscript transmission of medieval Galician-Portuguese poetry. For this purpose, this edition will focus on the linguistic textual variation, since it can be crucial in determining the origin of this manuscript tradition.
 
-[Exploring Speech in Russian Fairy Tales](/h ttp://ft.obdurodon.org/index.html)  
+[Exploring Speech in Russian Fairy Tales](/h ttp://ft.obdurodon.org/index.html)
 
 As Ruth Bottigheimer points out, agency can be analyzed through the type and amount of speech allocated to different male and female characters. The primary goal of this research is to determine the connections between speech and gender in Russian fairy tales and to discover how these connections may differ from those found in other fairy tale traditions. Some of the research questions this project seeks to answer revolve around not only the speech patterns of men and women, but also the speech patterns of positive and negative characters. For example, do witches and other negative female characters speak more often and more forcefully than their male counterparts? Do “good” women—whether heroines or fairy godmothers—speak words of wisdom or are they mostly silent?
 
 ###### Сюжетная разметка
 
-Ю.Е. Березкин, Е.Н. Дувакин. [БД фольклорных мотивов](http://ruthenia.ru/folklore/berezkin/)  
+Ю.Е. Березкин, Е.Н. Дувакин. [БД фольклорных мотивов](http://ruthenia.ru/folklore/berezkin/)
 
 База данных фольклора народов мира, основанная на мотиве — более дробном элементе, чем сюжет. Такое деление позволяет включить в единую систему элементы сказок и мифов всех народов \(что не удавалось сделать с помощью указателей сюжетов\) и увязать ее с географической картой.
 
 #### Google Forms
 
+#### Полезные ссылки
 
+[Список различных проектов](/h ttp://obdurodon.org/)
 
-#### Полезные ссылки  
+[Google Forms Tutorial](https://zapier.com/learn/google-sheets/how-to-use-google-forms/)
 
-[Список различных проектов](/h ttp://obdurodon.org/)  
+[и ещё один](https://www.fieldboom.com/blog/google-forms/)
 
-
+[Nice visual Guide](https://lifehacker.com/learn-how-to-master-google-forms-with-this-handy-visual-1784277586)
 
