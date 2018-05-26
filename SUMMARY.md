@@ -5,7 +5,8 @@
 * [Семинар 2](seminar-2.md)
 * [Семинар 3](seminar-3.md)
 * [Семинар 4](seminar-4.md)
+* [Семинар 5](seminar-5.md)
+* [Семинар 6](seminar-6.md)
 * [Семинар 10](seminar-10.md)
-* [Семинары 12-13](seminari-12-13.md)
-* [Семинар 14](seminar-14.md)
+* [Семинар 11](seminar-11.md)
 
